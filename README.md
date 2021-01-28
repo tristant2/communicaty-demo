@@ -1,5 +1,5 @@
 # communicaty-demo
-A demo account for my B2B SaaS product
+A demo account for my B2B SaaS product that is in production.
 
 If you're interested in what I've built follow the demo below to see the power of Communicaty for local governments!
 
